@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+}
+
+ul li {
+    border: solid 1px black;
+    padding: 25px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.Label {
+    font-weight: bold;
+}
+
+.Rate {
+    padding: 0 5px;
+}
+
+.Currency {
+    padding: 0 5px;
+}
